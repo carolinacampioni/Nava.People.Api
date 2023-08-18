@@ -6,6 +6,9 @@ Bem-vindo à documentação da API de Consulta de Dados de Pessoas Nava. Esta AP
 
 A autenticação na API é realizada usando **Basic Authentication**. Para acessar os endpoints protegidos, as credenciais de autenticação serão enviadas por e-mail.
 
+## Dados
+
+Os dados das pessoas estão armazenados em um arquivo JSON localizado na pasta "database" do projeto. O arquivo contém informações como nome, sobrenome, documento, idade, endereço e número de telefone de cada pessoa.
 
 ## Endpoints
 
